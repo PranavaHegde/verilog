@@ -67,7 +67,7 @@ initial begin
 
     #500 $finish;
 end 
-//Outout is not showing the desired output , the $monitor stops after 2 simulations 
+//Output is not showing the desired output , the $monitor stops after 2 simulations 
 
 endmodule 
 
