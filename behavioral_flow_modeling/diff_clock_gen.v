@@ -67,7 +67,7 @@ initial begin
 
     #500 $finish;
 end 
-//Output is not showing the desired output , the $monitor stops after 2 simulations 
+// use run -all
 
 endmodule 
 
